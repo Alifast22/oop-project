@@ -19,7 +19,7 @@ class plane:public airplane
 {
 	public:
 		
-	void bookflight()
+	void bookticket()
 	{
 		
 	}
